@@ -2,4 +2,4 @@
 
 # Description
 
-Creates a image pre-processing pipeline for the Oxford Flowers dataset to train VGG16 to predict the species of various flower images. 
+Creates a image pre-processing pipeline to be used on the Oxford Flowers dataset. Then, builds a classifier using an untrained VGG network in order to train the network to predict the species of various flower images that are later fed in. 
